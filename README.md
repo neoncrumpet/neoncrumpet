@@ -1,1 +1,1 @@
-<img src="construction.gif" />
+<img src="bttf.gif" />
