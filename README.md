@@ -1,1 +1,1 @@
-<img src="bttf.gif" />
+<img width="100%" src="bttf.gif" />
